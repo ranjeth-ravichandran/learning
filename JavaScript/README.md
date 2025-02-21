@@ -30,6 +30,11 @@ money = 1;
 // typically global values.
 ```
 
+## <span style="color:yellow;">VARIABLE METHODS</span>
+| Operator      | Description      |
+| ------------- | ------------- |
+| typeof x | Checks the variables datatype in javascript. |
+
 ## <span style="color:yellow;">INTEGERS</span>
 ### Arithmetic Operations
 | Operator      | Description      |
@@ -95,6 +100,7 @@ A string is a sequence of characters, such as letters, numbers, and symbols, sto
 | trim() | Trims the white space from the left and right side of the string. |
 | includes() | Checks whether a string contains a specfic value and returns true/false. |
 | repeat() | Repeats the the string multiple times. |
+| endsWith() | Returns true or false if a string ends with a specific value. |
 
 ## <span style="color:yellow;">REGULAR EXPRESSION</span>
 A regular expression is a sequence of characters that forms a search pattern.
